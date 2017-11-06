@@ -1,0 +1,6 @@
+(
+	\name: 			"Troop",
+	\summary:		"OSCFunc that allows Troop to  run SuperCollider code",
+	\author: 		"Ryan Kirkbride",
+	\since: 		"2017",
+)
